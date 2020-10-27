@@ -1,0 +1,7 @@
+Name|Rating
+Vanya;15
+Olga;31
+Vika;44
+Sasha;10
+Anatoliy;18
+Polya;23

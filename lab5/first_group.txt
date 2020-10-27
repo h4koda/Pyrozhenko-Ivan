@@ -1,0 +1,6 @@
+Name|Rating
+John;12
+Bob;34
+Alice;56
+Julia;32
+Eric;39
